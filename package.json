@@ -1,7 +1,7 @@
 {
   "name": "grunt-git-commit",
   "description": "Add files to next git commit.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Greg Sikorski",
     "email": "g.sikorski@camlintechnologies.com"
